@@ -1,0 +1,20 @@
+package:
+  name: "variant"
+  dependencies:
+    - assert
+    - control
+    - effect
+    - either
+    - enums
+    - foldable-traversable
+    - lists
+    - maybe
+    - partial
+    - prelude
+    - record
+    - tuples
+    - type-equality
+    - unsafe-coerce
+  test:
+    main: "Test.Main"
+    dependencies: []
