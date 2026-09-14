@@ -1,5 +1,14 @@
 # purescript-variant
 
+## Local Go development
+
+This checkout is part of the gopurs library family. Use the
+[local Go development guide](../gopurs/README.md#develop-one-library-locally)
+for toolchain setup, sibling dependencies, Spago configuration and Go commands.
+The existing npm, Bower and Dhall commands below retain their JavaScript or
+upstream roles.
+
+
 [![Latest release](http://img.shields.io/github/release/natefaubion/purescript-variant.svg)](https://github.com/natefaubion/purescript-variant/releases)
 [![Build status](https://travis-ci.org/natefaubion/purescript-variant.svg?branch=master)](https://travis-ci.org/natefaubion/purescript-variant)
 
